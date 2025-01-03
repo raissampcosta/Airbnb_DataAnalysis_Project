@@ -2,7 +2,7 @@
 - [Installation](#installations)
 - [Project Motivation](#project-motivation)
 - [File Descriptions](#file-descriptions)
-- [Resuçts](#results)
+- [Results](#results)
 - [Licensing, Authors, Acknowledgements](#licensing-authors-acknowledgements)
   
 ## Installation
