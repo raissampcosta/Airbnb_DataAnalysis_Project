@@ -39,7 +39,7 @@ This project provided valuable insights into the Airbnb data from Seattle and Bo
 - **Valued amenity combinations:** Certain combinations of amenities, such as doorman, cats and suitable for events, were strongly associated with higher prices and demand.
 - **Guest preferences:** High-rated properties tended to offer more essential amenities compared to low-rated ones. This suggests a potential alignment between the availability of these amenities and guest expectations, based on their ratings.
 
-For a detailed discussion of the analysis and findings, please visit my blog post [here] (https://medium.com/@raissa.mpcosta/how-data-from-boston-and-seattle-reveals-trends-in-airbnb-036714b40a54).
+For a detailed discussion of the analysis and findings, please visit my blog post [here](https://medium.com/@raissa.mpcosta/how-data-from-boston-and-seattle-reveals-trends-in-airbnb-036714b40a54).
 
 ## Licensing, Authors, Acknowledgements
 This project is based on Airbnb data provided by Kaggle and Airbnb itself. More information about the data can be found at [Boston Data](https://www.kaggle.com/datasets/airbnb/boston) and [Seattle Data](https://www.kaggle.com/datasets/airbnb/seattle)
